@@ -3,8 +3,5 @@ JavaScript é uma linguagem de programação
 Tecnologia clientside - para interação
 
 JavaScript não é Java
-	JavaScript: 
-	Java: 
-
 
 
